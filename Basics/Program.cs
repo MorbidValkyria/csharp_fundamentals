@@ -88,9 +88,14 @@ namespace Basics // A namespace is basically where our project exists
             }
 
             // if There's only one statement inside the conditional we can ignore the braces
-            if (temp < 10) Console.WriteLine("cold");
-            else if (temp < 20) Console.WriteLine("medium");
-            else Console.WriteLine("hot");
+            if (temp < 10) 
+                Console.WriteLine("cold");
+
+            else if (temp < 20) 
+                Console.WriteLine("medium");
+                
+            else 
+                Console.WriteLine("hot");
             #endregion
 
             #region Loops For, While, Do-While
