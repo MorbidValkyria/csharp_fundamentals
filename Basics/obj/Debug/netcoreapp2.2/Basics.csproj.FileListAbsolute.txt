@@ -1,0 +1,11 @@
+/home/francisco/Documents/csharp_fundamentals/Basics/bin/Debug/netcoreapp2.2/Basics.deps.json
+/home/francisco/Documents/csharp_fundamentals/Basics/bin/Debug/netcoreapp2.2/Basics.runtimeconfig.json
+/home/francisco/Documents/csharp_fundamentals/Basics/bin/Debug/netcoreapp2.2/Basics.runtimeconfig.dev.json
+/home/francisco/Documents/csharp_fundamentals/Basics/bin/Debug/netcoreapp2.2/Basics.dll
+/home/francisco/Documents/csharp_fundamentals/Basics/bin/Debug/netcoreapp2.2/Basics.pdb
+/home/francisco/Documents/csharp_fundamentals/Basics/obj/Debug/netcoreapp2.2/Basics.csprojAssemblyReference.cache
+/home/francisco/Documents/csharp_fundamentals/Basics/obj/Debug/netcoreapp2.2/Basics.csproj.CoreCompileInputs.cache
+/home/francisco/Documents/csharp_fundamentals/Basics/obj/Debug/netcoreapp2.2/Basics.AssemblyInfoInputs.cache
+/home/francisco/Documents/csharp_fundamentals/Basics/obj/Debug/netcoreapp2.2/Basics.AssemblyInfo.cs
+/home/francisco/Documents/csharp_fundamentals/Basics/obj/Debug/netcoreapp2.2/Basics.dll
+/home/francisco/Documents/csharp_fundamentals/Basics/obj/Debug/netcoreapp2.2/Basics.pdb
