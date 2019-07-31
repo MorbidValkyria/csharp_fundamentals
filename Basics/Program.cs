@@ -93,13 +93,58 @@ namespace Basics // A namespace is basically where our project exists
 
             else if (temp < 20) 
                 Console.WriteLine("medium");
-                
+
             else 
                 Console.WriteLine("hot");
             #endregion
 
             #region Loops For, While, Do-While
+            // For loop example
 
+            // Iterating through a range 
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine($"The current value of i is {i}");
+            }
+
+            // Iterating through a string:
+            string s = "I'm Blue dabadi dabada";
+            // Just like with conditionals we can avoid braces if only one statement inside the loop
+            for (int i = 0; i < s.Length; i++ )  
+                Console.WriteLine($"Character {s[i]} at iteration {i}");
+            
+            // Using substring 
+            for (int i = 0; i < s.Length-3; i++)
+            {
+                if (s.Substring(i, i+4) == "Blue")
+                    Console.WriteLine("String contains the Substring Blue!");
+                else
+                    Console.WriteLine("No Blue inside the string :(");
+            }
+
+            /*
+                While loops are ineteresting, we first have to define the variable we're going
+                to use as a condition
+             */
+
+            int myCondition = 0;
+
+            while (myCondition < 9)
+            {
+                if (myCondition % 2 != 0)
+                    Console.WriteLine($"{myCondition} is odd");
+                else
+                    Console.WriteLine($"{myCondition} is even");
+            
+                myCondition++; // Increments myCondition by one each iteration so the loop terminates
+            }
+            // Do While is pretty special, even if the condition is false, it gets executed at least once
+            bool mySecondCondition = false;
+
+            do
+            {
+                Console.WriteLine("Even if the condition is false, this gets executed at least once.");
+            } while (mySecondCondition);
             #endregion
 
             #region Arrays
