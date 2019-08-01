@@ -148,7 +148,9 @@ namespace Basics // A namespace is basically where our project exists
             #endregion
 
             #region Arrays
-
+            // Arrays are a type of data structures that can hold other data structures
+            // All the objects inside the array have to be of the same type
+            int[] myArray = new int[]{1, 2, 3};
             #endregion
         }
     }
