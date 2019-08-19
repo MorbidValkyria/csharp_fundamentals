@@ -1,0 +1,11 @@
+/home/francisco/Documents/csharp_fundamentals/Hangman/bin/Debug/netcoreapp2.2/Hangman.deps.json
+/home/francisco/Documents/csharp_fundamentals/Hangman/bin/Debug/netcoreapp2.2/Hangman.runtimeconfig.json
+/home/francisco/Documents/csharp_fundamentals/Hangman/bin/Debug/netcoreapp2.2/Hangman.runtimeconfig.dev.json
+/home/francisco/Documents/csharp_fundamentals/Hangman/bin/Debug/netcoreapp2.2/Hangman.dll
+/home/francisco/Documents/csharp_fundamentals/Hangman/bin/Debug/netcoreapp2.2/Hangman.pdb
+/home/francisco/Documents/csharp_fundamentals/Hangman/obj/Debug/netcoreapp2.2/Hangman.csprojAssemblyReference.cache
+/home/francisco/Documents/csharp_fundamentals/Hangman/obj/Debug/netcoreapp2.2/Hangman.csproj.CoreCompileInputs.cache
+/home/francisco/Documents/csharp_fundamentals/Hangman/obj/Debug/netcoreapp2.2/Hangman.AssemblyInfoInputs.cache
+/home/francisco/Documents/csharp_fundamentals/Hangman/obj/Debug/netcoreapp2.2/Hangman.AssemblyInfo.cs
+/home/francisco/Documents/csharp_fundamentals/Hangman/obj/Debug/netcoreapp2.2/Hangman.dll
+/home/francisco/Documents/csharp_fundamentals/Hangman/obj/Debug/netcoreapp2.2/Hangman.pdb
