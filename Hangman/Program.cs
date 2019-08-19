@@ -6,11 +6,7 @@ namespace Hangman
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            Game();
-        }
+        static void Main(string[] args) => Game();
 
         public static string GetWord()
         {
