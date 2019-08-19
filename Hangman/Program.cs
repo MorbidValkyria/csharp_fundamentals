@@ -94,6 +94,7 @@ namespace Hangman
             else
             {
                 System.Console.WriteLine("You Loose!");
+                System.Console.WriteLine($"The word was {word}");
             }
         }
     }
