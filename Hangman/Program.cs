@@ -37,7 +37,8 @@ namespace Hangman
         
             for (int i = 0; i < word.Length; i++)
             {
-                if (word[i].ToString() == letter){
+                if (word[i].ToString() == letter)
+                {
                     result = true;
                     blanks[i] = letter;
                 }
@@ -57,10 +58,11 @@ namespace Hangman
         public static void Game()
         {
             int strikes = 0;
-            int maxStrikes = 3;
+            int maxStrikes = 5;
             bool play = true;
             string word = GetWord();
             List<string> blanks = new List<string>();
+            Console.WriteLine($"Max-Strikes: {maxStrikes}");
             for (int i = 0; i < word.Length; i++)
             {
                 blanks.Add("_");
